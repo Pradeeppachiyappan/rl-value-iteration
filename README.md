@@ -1,6 +1,6 @@
 ### Name : Pradeepraj P
 
-### Reg No : 212222240079
+### Reg No : 212222240073
 
 # VALUE ITERATION ALGORITHM
 
