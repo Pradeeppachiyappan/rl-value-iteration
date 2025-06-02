@@ -56,7 +56,7 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/458a4cc5-c1d0-47c4-95b9-f698c2df45cd)
+![To_change](https://github.com/user-attachments/assets/b0445116-9b40-41d2-b506-0b8e2beafba6)
 
 
 
